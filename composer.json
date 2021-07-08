@@ -1,0 +1,17 @@
+{
+    "name": "bluecadet/bluecadet_custom_fields",
+    "description": "Custom compound fields types used throughout Bluecadet Projects",
+    "type": "custom-drupal-module",
+    "authors": [
+      {
+        "name": "Pete Inge",
+        "email": "pete.inge@gmail.com",
+        "role": "Maintainer"
+      }
+    ],
+    "license": "GPL-2.0+",
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.0"
+    }
+}
