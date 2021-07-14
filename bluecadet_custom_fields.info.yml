@@ -2,5 +2,5 @@ name: Bluecadet Custom Fields
 type: module
 description: Custom compound fields types used throughout Bluecadet Projects
 package: Bluecadet
-version: '8.x-1.0.0'
+version: '8.x-1.0.1'
 core_version_requirement: ^8.9 || ^9
