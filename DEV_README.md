@@ -1,5 +1,5 @@
 # Developer Documentation
-
+[![Tests](https://github.com/bluecadet/bluecadet_custom_fields/actions/workflows/drupal-tests-and-standards.yml/badge.svg)](https://github.com/bluecadet/bluecadet_custom_fields/actions/workflows/drupal-tests-and-standards.yml)
 ## Testing archiving:
 
 `git archive -o bluecadet_custom_fields.tar HEAD`
