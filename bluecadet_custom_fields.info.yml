@@ -8,3 +8,9 @@ package: Bluecadet
 dependencies: []
 
 configure: null
+
+
+# Information added by packaging script on 2023-08-14
+version: 2.0.0-alpha1
+project: bluecadet_custom_fields
+datestamp: 1692065383941
