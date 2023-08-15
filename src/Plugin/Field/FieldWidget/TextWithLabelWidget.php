@@ -87,7 +87,7 @@ class TextWithLabelWidget extends StringTextareaWidget {
     $element['label'] = [
       '#type' => 'textfield',
       '#title' => $this->getSetting('label_title'),
-      '#default_value' => isset($items[$delta]->label) ? $items[$delta]->label : NULL,
+      '#default_value' => $items[$delta]->label ?? NULL,
       '#size' => $this->getSetting('size'),
       '#placeholder' => $this->getSetting('placeholder'),
       '#maxlength' => $this->getFieldSetting('max_length'),
