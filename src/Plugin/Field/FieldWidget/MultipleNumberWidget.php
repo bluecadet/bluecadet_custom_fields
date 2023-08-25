@@ -41,7 +41,7 @@ class MultipleNumberWidget extends WidgetBase {
     //   '#default_value' => $this->getSetting('placeholder'),
     //   '#description' => $this->t('Text that will be shown inside the field until a value is entered. This hint is usually a sample value or a brief description of the expected format.'),
     // ];
-    return $element;
+    return []; //$element;
   }
 
   /**
